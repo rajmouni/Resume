@@ -5,5 +5,45 @@
     "name":"M.Lalitha",
     "email":"lalithamethukula@gmail.com",
     "mobile":"9440655138"
+  },
+  "Education":[
+    {
+      "course":"BTech",
+      "college":[
+        "Ravindra Engineering College For Women",
+      "60%",
+      "2015-2019"
+      ]
+    },
+{
+  "course":"Intermediate(MPC)",
+  "college":[
+    "Sri Chaitanya Junior College",
+  "78%",
+  "2013-2015"
+  ]
+},
+{
+  "course":"SSC",
+  "college":[
+    "Indus High School",
+    "2013",
+    "7.8GPA"
+    ]
+}
+],
+"skills":[
+  {
+    "name":"operating systems",
+    "value":"windows,linux"
+  },
+  {
+    "name":"programming language",
+    "value":"C,C++,JAVA"
+  },
+  {
+    "name":"Web development",
+    "value":"html,.net,python"
   }
+]
 }
